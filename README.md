@@ -1,4 +1,4 @@
-###My Website###
+## My Website
 
 Here is my website it is nothing special yet. I plan on making a simple http server in rust then redesigning this website to only use nodejs OR python depending on if i feel i should learn nodejs(i already know a decent amount of python).
 
